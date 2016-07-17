@@ -1,0 +1,2 @@
+# lj
+project root
